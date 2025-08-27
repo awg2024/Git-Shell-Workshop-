@@ -1,2 +1,2 @@
 # tesco order
-salt 0.20 
+salt 0.25 
