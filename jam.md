@@ -4,3 +4,4 @@
 * chia seeds
 * sugar
 * lemon
+* dark brown sugar
