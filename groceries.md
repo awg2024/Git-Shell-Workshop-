@@ -1,8 +1,12 @@
 # tesco order
+<<<<<<< HEAD
 
 avacado 5.00
 
 
+=======
+limes 2
+>>>>>>> 953308c0d1da8f243733280855fb42c1f772a533
 <<<<<<< HEAD
 salt 0.25 
 =======
