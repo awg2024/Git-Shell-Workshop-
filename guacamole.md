@@ -12,7 +12,7 @@
 * cut up avocado
 * cup up pepper
 * mix all 
-* enjoy
+* enjoy with everyone
 
 
 # groceries.md has prices. 
