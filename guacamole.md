@@ -13,3 +13,6 @@
 * cup up pepper
 * mix all 
 * enjoy
+
+
+# groceries.md has prices. 
