@@ -3,7 +3,7 @@
 # ingredients
 * avocado
 * pepper
-* lemon
+* lime
 * salt 
 * pepper
 
@@ -12,3 +12,4 @@
 * cut up avocado
 * cup up pepper
 * mix all 
+* enjoy
